@@ -4,6 +4,8 @@ Collection of **open source** tools for web performance testing and optimization
 
 This list appeared as a logical continuation of [__load-testing-toolkit__](https://github.com/aliesbelik/load-testing-toolkit) collection but for **web performance** and real user experience.
 
+### Tools
+
 > In alphabetical order.
 
 * [__boomerang__](https://github.com/akamai/boomerang) - A JavaScript library that measures the page load time experienced by real users.
@@ -18,3 +20,9 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__webpagetest__](https://github.com/WPO-Foundation/webpagetest) - A performance measurement tool to test website speed from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.
 * [__yellowlab.tools__](https://github.com/YellowLabTools/YellowLabTools) - A web performance and front-end quality testing tool using [phantomas](https://github.com/macbre/phantomas).
 * [__yslow__](https://github.com/marcelduran/yslow) - Analyze web pages and suggest ways to improve their performance based on Yahoo!'s set of rules for high performance web pages.
+
+### Related
+
+* [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
+* [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
+* [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem.
