@@ -2,7 +2,7 @@
 
 Collection of **open source** tools for web performance testing and optimization.
 
-This list appeared as a logical continuation of [__load-testing-toolkit__](https://github.com/aliesbelik/load-testing-toolkit) collection but for **web performance** and real user experience.
+This list appeared as a logical continuation of [__load-testing-toolkit__](https://github.com/aliesbelik/load-testing-toolkit) collection but for **web performance** and real user experience monitoring.
 
 ### Tools
 
