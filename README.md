@@ -12,6 +12,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__browsertime__](https://github.com/sitespeedio/browsertime) - A harness to automate running JavaScript in your browser primary used to collect performance metrics.
 * [__garie__](https://github.com/boyney123/garie) - An out-the-box web performance toolkit that provides pre-configured dashboards, tooling and historic reporting to understand applications web performance.
 * [__lighthouse__](https://github.com/GoogleChrome/lighthouse) - An automated tool analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+* [__perfectum__](https://github.com/TinkoffCreditSystems/perfectum) - A set of tools for performance audit via measuring client/synthetic performance metrics.
 * [__phantomas__](https://github.com/macbre/phantomas) - Phantom.js-based web performance metrics collector and monitoring tool.
 * [__puppeteer-webperf__](https://github.com/addyosmani/puppeteer-webperf) - Automating web performance testing with [puppeteer](https://github.com/puppeteer/puppeteer), a Node.js library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol.
 * [__sitespeed.io__](https://github.com/sitespeedio/sitespeed.io) - A complete web performance tool to measure the performance of website.
