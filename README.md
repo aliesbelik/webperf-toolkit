@@ -9,6 +9,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 > In alphabetical order.
 
 * [__boomerang__](https://github.com/akamai/boomerang) - A JavaScript library that measures the page load time experienced by real users.
+* [__browser-perf__](https://github.com/axemclion/browser-perf) - A Node.js based tool for measuring browser performance metrics.
 * [__browsertime__](https://github.com/sitespeedio/browsertime) - A harness to automate running JavaScript in your browser primary used to collect performance metrics.
 * [__garie__](https://github.com/boyney123/garie) - An out-the-box web performance toolkit that provides pre-configured dashboards, tooling and historic reporting to understand applications web performance.
 * [__lighthouse__](https://github.com/GoogleChrome/lighthouse) - An automated tool analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
