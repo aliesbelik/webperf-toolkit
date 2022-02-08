@@ -8,6 +8,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 
 > In alphabetical order.
 
+* [__autowebperf__](https://github.com/GoogleChromeLabs/AutoWebPerf) - A flexible and scalable framework for running web performance audits with arbitrary audit tools including PageSpeed Insights, [WebPageTest](https://github.com/WPO-Foundation/webpagetest) and more.
 * [__boomerang__](https://github.com/akamai/boomerang) - A JavaScript library that measures the page load time experienced by real users.
 * [__browser-perf__](https://github.com/axemclion/browser-perf) - A Node.js based tool for measuring browser performance metrics.
 * [__browsertime__](https://github.com/sitespeedio/browsertime) - A harness to automate running JavaScript in your browser primary used to collect performance metrics.
@@ -15,7 +16,9 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__lighthouse__](https://github.com/GoogleChrome/lighthouse) - An automated tool analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
 * [__overlooker__](https://github.com/overlookerjs/overlooker) - Frontend performance profiling tool.
 * [__perfectum__](https://github.com/TinkoffCreditSystems/perfectum) - A set of tools for performance audit via measuring client/synthetic performance metrics.
+* [__perftools-runner__](https://github.com/GoogleChromeLabs/perftools-runner) - Web frontend to run simultaneously several of Google's performance tools ([lighthouse](https://github.com/GoogleChrome/lighthouse), PageSpeed Insights, [WebPageTest](https://github.com/WPO-Foundation/webpagetest)) against an URL, all at once, using [puppeteer](https://github.com/puppeteer/puppeteer).
 * [__phantomas__](https://github.com/macbre/phantomas) - Phantom.js-based web performance metrics collector and monitoring tool.
+* [__psi__](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights Reporting for Node.js.
 * [__puppeteer-webperf__](https://github.com/addyosmani/puppeteer-webperf) - Automating web performance testing with [puppeteer](https://github.com/puppeteer/puppeteer), a Node.js library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol.
 * [__pwmetrics__](https://github.com/paulirish/pwmetrics) - Progressive Web Metrics, a CLI tool and library to gather performance metrics via [lighthouse](https://github.com/GoogleChrome/lighthouse).
 * [__sitespeed.io__](https://github.com/sitespeedio/sitespeed.io) - A complete web performance tool to measure the performance of website.
