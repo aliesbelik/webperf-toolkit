@@ -1,10 +1,10 @@
 # Web Performance Toolkit
 
-Collection of **open source** tools for web performance testing and optimization.
+Collection of __open-source__ tools for web performance testing and optimization.
 
-This list appeared as a logical continuation of [__load-testing-toolkit__](https://github.com/aliesbelik/load-testing-toolkit) collection but for **web performance** and real user experience monitoring.
+This list appeared as a logical continuation of [__load-testing-toolkit__](https://github.com/aliesbelik/load-testing-toolkit) collection but for __web performance__ and real user experience monitoring.
 
-### Tools
+## Tools
 
 > In alphabetical order.
 
@@ -30,7 +30,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__yellowlab.tools__](https://github.com/YellowLabTools/YellowLabTools) - A web performance and front-end quality testing tool using [phantomas](https://github.com/macbre/phantomas).
 * [__yslow__](https://github.com/marcelduran/yslow) - Analyze web pages and suggest ways to improve their performance based on Yahoo!'s set of rules for high performance web pages.
 
-### Related
+## Related
 
 * [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
 * [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
