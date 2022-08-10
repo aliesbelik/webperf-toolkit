@@ -15,7 +15,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__garie__](https://github.com/boyney123/garie) - An out-the-box web performance toolkit that provides pre-configured dashboards, tooling and historic reporting to understand applications web performance.
 * [__lighthouse__](https://github.com/GoogleChrome/lighthouse) - An automated tool analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
 * [__overlooker__](https://github.com/overlookerjs/overlooker) - Frontend performance profiling tool.
-* [__perfectum__](https://github.com/TinkoffCreditSystems/perfectum) - A set of tools for performance audit via measuring client/synthetic performance metrics.
+* [__perfectum__](https://github.com/Tinkoff/perfectum) - A set of tools for performance audit via measuring client/synthetic performance metrics.
 * [__perftools-runner__](https://github.com/GoogleChromeLabs/perftools-runner) - Web frontend to run simultaneously several of Google's performance tools ([lighthouse](https://github.com/GoogleChrome/lighthouse), PageSpeed Insights, [WebPageTest](https://github.com/WPO-Foundation/webpagetest)) against an URL, all at once, using [puppeteer](https://github.com/puppeteer/puppeteer).
 * [__phantomas__](https://github.com/macbre/phantomas) - Phantom.js-based web performance metrics collector and monitoring tool.
 * [__psi__](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights Reporting for Node.js.
