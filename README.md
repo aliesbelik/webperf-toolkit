@@ -22,6 +22,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__puppeteer-webperf__](https://github.com/addyosmani/puppeteer-webperf) - Automating web performance testing with [puppeteer](https://github.com/puppeteer/puppeteer), a Node.js library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol.
 * [__pwmetrics__](https://github.com/paulirish/pwmetrics) - Progressive Web Metrics, a CLI tool and library to gather performance metrics via [lighthouse](https://github.com/GoogleChrome/lighthouse).
 * [__sitespeed.io__](https://github.com/sitespeedio/sitespeed.io) - A complete web performance tool to measure the performance of website.
+* [__speedlify__](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
 * [__speedracer__](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
 * [__speedscope__](https://github.com/jlfwong/speedscope) - A fast, interactive web-based viewer for performance profiles.
 * [__timeline-viewer__](https://github.com/ChromeDevTools/timeline-viewer) - DevTools Timeline Viewer provides shareable URLs for Chrome DevTools performance traces.
