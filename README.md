@@ -27,6 +27,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__speedracer__](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
 * [__speedscope__](https://github.com/jlfwong/speedscope) - A fast, interactive web-based viewer for performance profiles.
 * [__timeline-viewer__](https://github.com/ChromeDevTools/timeline-viewer) - DevTools Timeline Viewer provides shareable URLs for Chrome DevTools performance traces.
+* [__unlighthouse__](https://github.com/harlan-zw/unlighthouse) - Scan entire site using Google [lighthouse](https://github.com/GoogleChrome/lighthouse), with a modern UI, minimal config and smart sampling.
 * [__webpagetest__](https://github.com/WPO-Foundation/webpagetest) - A performance measurement tool to test website speed from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.
 * [__web-tracing-framework__](https://github.com/google/tracing-framework) - Google's tools for instrumenting, analyzing, and visualizing web apps.
 * [__yellowlab.tools__](https://github.com/YellowLabTools/YellowLabTools) - A web performance and front-end quality testing tool using [phantomas](https://github.com/macbre/phantomas).
