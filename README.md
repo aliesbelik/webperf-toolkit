@@ -13,6 +13,7 @@ This list appeared as a logical continuation of [__load-testing-toolkit__](https
 * [__browser-perf__](https://github.com/axemclion/browser-perf) - A Node.js based tool for measuring browser performance metrics.
 * [__browsertime__](https://github.com/sitespeedio/browsertime) - A harness to automate running JavaScript in your browser primary used to collect performance metrics.
 * [__garie__](https://github.com/boyney123/garie) - An out-the-box web performance toolkit that provides pre-configured dashboards, tooling and historic reporting to understand applications web performance.
+* [__HAR Timing Brief Lite__](https://github.com/yyy8m/har-timing-lite) - An offline Node.js CLI that turns HAR 1.2 captures into numeric JSON summaries without including original URLs, headers, cookies or bodies.
 * [__lighthouse__](https://github.com/GoogleChrome/lighthouse) - An automated tool analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
   * [__auto-lighthouse__](https://github.com/TGiles/auto-lighthouse) - An utility package for automating [lighthouse](https://github.com/GoogleChrome/lighthouse) reporting.
   * [__Gradle Lighthouse Plugin__](https://github.com/wttech/gradle-lighthouse-plugin) - Easily run [lighthouse](https://github.com/GoogleChrome/lighthouse) tests on multiple sites with checking thresholds.
